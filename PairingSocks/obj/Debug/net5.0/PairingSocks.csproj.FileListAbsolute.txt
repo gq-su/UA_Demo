@@ -1,0 +1,16 @@
+C:\Users\gqian\Source\Repos\PairingSocks\obj\Debug\net5.0\PairingSocks.csproj.AssemblyReference.cache
+C:\Users\gqian\Source\Repos\PairingSocks\obj\Debug\net5.0\PairingSocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gqian\Source\Repos\PairingSocks\obj\Debug\net5.0\PairingSocks.AssemblyInfoInputs.cache
+C:\Users\gqian\Source\Repos\PairingSocks\obj\Debug\net5.0\PairingSocks.AssemblyInfo.cs
+C:\Users\gqian\Source\Repos\PairingSocks\obj\Debug\net5.0\PairingSocks.csproj.CoreCompileInputs.cache
+C:\Users\gqian\Source\Repos\PairingSocks\bin\Debug\net5.0\PairingSocks.exe
+C:\Users\gqian\Source\Repos\PairingSocks\bin\Debug\net5.0\PairingSocks.deps.json
+C:\Users\gqian\Source\Repos\PairingSocks\bin\Debug\net5.0\PairingSocks.runtimeconfig.json
+C:\Users\gqian\Source\Repos\PairingSocks\bin\Debug\net5.0\PairingSocks.runtimeconfig.dev.json
+C:\Users\gqian\Source\Repos\PairingSocks\bin\Debug\net5.0\PairingSocks.dll
+C:\Users\gqian\Source\Repos\PairingSocks\bin\Debug\net5.0\ref\PairingSocks.dll
+C:\Users\gqian\Source\Repos\PairingSocks\bin\Debug\net5.0\PairingSocks.pdb
+C:\Users\gqian\Source\Repos\PairingSocks\obj\Debug\net5.0\PairingSocks.dll
+C:\Users\gqian\Source\Repos\PairingSocks\obj\Debug\net5.0\ref\PairingSocks.dll
+C:\Users\gqian\Source\Repos\PairingSocks\obj\Debug\net5.0\PairingSocks.pdb
+C:\Users\gqian\Source\Repos\PairingSocks\obj\Debug\net5.0\PairingSocks.genruntimeconfig.cache
